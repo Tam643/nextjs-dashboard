@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "workbench.settings.openDefaultKeybindings": false,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": false,
+    "explorer.excludeGitIgnore": false,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on"
+}
